@@ -1,0 +1,25 @@
+/* No CSS *//*# sourceMappingURL=Global.css.map */
+.row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 25px;
+}
+
+.col-6{
+    width: 50%;
+    flex-direction: column;
+}
+.col-4{
+    width: 30%;
+    flex-direction: column;
+}
+.container{
+    margin: 139px
+}
+
+.d-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

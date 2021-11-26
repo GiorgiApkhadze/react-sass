@@ -1,0 +1,21 @@
+@import "../Variables/Variables.scss";
+
+body{
+    margin: 0%;
+}
+
+.navbar{
+    width: 100%;
+    height: 80px;
+    background-color: $bkgColor;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbar a{
+    color: $blackColor;
+    font-size: 25px;
+    margin-left: 23px;
+    text-decoration: none;
+}

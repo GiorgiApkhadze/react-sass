@@ -1,0 +1,10 @@
+@import "../Variables/Variables.scss";
+
+@import "../Variables/Global.scss";
+
+.card{
+    width: 354px;
+    height: 338px;
+    background: $componentcolor;
+    border-radius: 8px;
+}

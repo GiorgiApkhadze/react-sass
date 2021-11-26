@@ -1,0 +1,17 @@
+$blackColor:#232323;
+$btnColor: #04AA84;
+$bkgColor:#E5E5E5;
+$componentcolor:#04AA8440;
+$textolorbtn:white;
+
+
+$titleFont: Arial;
+
+.btn{
+    background-color: $btnColor;
+    width: 168px;
+    height: 50px;
+    border-radius: 8px;
+    border: none;
+    color: $textolorbtn;
+}
